@@ -4,7 +4,7 @@ Create custom greeting cards with ease! 💌
 
 This web application allows you to generate personalized greeting cards for various occasions. Choose from different themes like Birthday, Congratulations, Love, and Friendship, enter the recipient's name, and get a beautiful card ready to download.
 
-Live demo: https://iam269.github.io/Greeting-Card-Maker/
+Live demo: https://itsiamdev.github.io/Greeting-Card-Maker/
 
 ## Features
 - 🎂 Birthday theme
